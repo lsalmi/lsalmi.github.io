@@ -1,0 +1,76 @@
+body{
+  text-align: center;
+  color: #2c3e50;
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 150px;
+}
+
+.logo{
+  color: #2980b9;
+  font-weight: bold;
+  font-size: 46px;
+  margin: 0px;
+  font-family: 'Bitter', serif;
+}
+
+.nav-item{
+  border-bottom: 2px solid #2980b9;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.greeting {
+  font-size: 52px;
+}
+
+.greeting-hello {
+  font-style: italic;
+}
+
+.greeting-name {
+  color: #2980b9;
+  font-weight: bold;
+  font-family: 'Bitter', serif;
+}
+
+.about {
+  background-color: #2c3e50;
+color: #ecf0f1;
+padding: 100px;
+
+}
+
+.about-title{
+  font-size: 56px;
+  margin: 0px;
+}
+.about-image{
+  margin: 50px;
+  width: 20%;
+  border-radius: 50%;
+}
+
+.about-resume-button{
+  margin-top: 50px;
+}
+
+.about-resume-link {
+  font-size: 24px;
+  color: #ecf0f1;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 2px solid #2980b0;
+  text-decoration: none;
+  font-family: 'Bitter', serif;
+}
+
+.social-media-icon-link {
+color: #2c3e50;
+}
